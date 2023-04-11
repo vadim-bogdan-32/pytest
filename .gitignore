@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 /first_selenium_script/.idea/
 .idea/
+/test_triangle_pytest/.idea/
