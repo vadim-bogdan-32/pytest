@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/first_selenium_script/.idea/
+.idea/
+/test_triangle_pytest/.idea/
